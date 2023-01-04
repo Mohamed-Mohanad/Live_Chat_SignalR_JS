@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "nhiNW+pLmKgGiIx5xHj9a2c3/MSbSKI4ogMRpqBNH2k=",
+  "Source": "SignalR",
+  "BasePath": "_content/SignalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalR\\wwwroot",
+      "Source": "SignalR",
+      "ContentRoot": "D:\\Studing\\route .net course\\SignalR\\SignalR\\wwwroot\\",
+      "BasePath": "_content/SignalR",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Studing\\route .net course\\SignalR\\SignalR\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.js",
+      "SourceId": "SignalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Studing\\route .net course\\SignalR\\SignalR\\wwwroot\\",
+      "BasePath": "_content/SignalR",
+      "RelativePath": "lib/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Identity": "D:\\Studing\\route .net course\\SignalR\\SignalR\\wwwroot\\pages\\Index.html",
+      "SourceId": "SignalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Studing\\route .net course\\SignalR\\SignalR\\wwwroot\\",
+      "BasePath": "_content/SignalR",
+      "RelativePath": "pages/Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\Index.html"
+    }
+  ]
+}
